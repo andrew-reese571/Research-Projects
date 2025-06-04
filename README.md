@@ -55,6 +55,6 @@ R, ggplot2, ts analysis, STL decomposition
 
 ---
 
-## 📫 Contact
+## Contact
 
-If you're a recruiter or hiring manager and would like to know more about my work, feel free to connect with me via [LinkedIn](#) or reach out directly via email at [your.email@example.com].
+If you're a recruiter or hiring manager and would like to know more about my work, feel free to connect with me via LinkedIn [https://www.linkedin.com/in/andrew-reese-/] or reach out directly via email at andrewreese571@gmail.com.
